@@ -1,8 +1,8 @@
-# 📝 Signup Form Validation
+# Signup Form Validation
 
 A simple and responsive **Signup Form Validation** project built using **HTML, CSS, and JavaScript**. This project validates user input on the client side to ensure that all required fields are filled correctly before the form is submitted.
 
-## 🚀 Features
+## Features
 
 - User-friendly signup form
 - Name validation
@@ -13,13 +13,13 @@ A simple and responsive **Signup Form Validation** project built using **HTML, C
 - Success message after successful validation
 - Responsive and clean user interface
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - HTML5
 - CSS3
 - JavaScript (Vanilla JS)
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 Form-Validation/
@@ -28,14 +28,14 @@ Form-Validation/
 │── script.js
 ```
 
-## 📋 Validation Rules
+## Validation Rules
 
 - **Name:** Cannot be empty.
 - **Email:** Must be in a valid email format.
 - **Password:** Must meet the required criteria (e.g., minimum length).
 - **Confirm Password:** Must match the entered password.
 
-## 🎯 Learning Outcomes
+## Learning Outcomes
 
 This project helped me learn:
 
@@ -46,13 +46,13 @@ This project helped me learn:
 - Event handling
 - Displaying dynamic error and success messages
 
-## ▶️ How to Run
+## How to Run
 
 1. Download or clone the repository.
 2. Open the project folder in Visual Studio Code.
 3. Open index.html in your browser.
 4. Fill in the form to test the validation.
 
-## 👩‍💻 Author
+##  Author
 
 **Varsha Mahendrakar**
